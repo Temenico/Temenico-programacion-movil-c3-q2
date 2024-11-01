@@ -1,5 +1,5 @@
 # Construcción de Componentes
-Esta documentación se centra en la creación de componentes utilizando Ionic Vue, abordando el desarrollo y la integración de elementos clave. La primera parte se enfocará en la creación de 10 componentes individuales, explicando el propósito y funcionalidad de cada uno. En la segunda parte, se presentarán tres componentes más complejos que combinarán varios elementos para demostrar su integración en un CRUD.
+Esta documentación se centra en la creación de componentes utilizando Ionic Vue, abordando el desarrollo y la integración de elementos clave. La primera parte se enfocará en la creación de 10 componentes individuales, explicando el propósito y funcionalidad de cada uno. En la segunda parte, se presentarán tres componentes más complejos que combinarán varios elementos para demostrar su integración y funcionamiento.
 
 ## Pasos Iniciales
 
@@ -22,8 +22,8 @@ Sigue estos pasos para clonar e instalar el proyecto:
 1. **Clona el repositorio:**
 
     ```bash
-    git clone <https://github.com/Temenico/programacion-movil-c3-q2>
-    cd <programacion-movil-c3-q2>
+    git clone https://github.com/Temenico/programacion-movil-c3-q2
+    cd programacion-movil-c3-q2
     ```
     
 
@@ -53,6 +53,12 @@ Para ejecutar el proyecto en un servidor local de desarrollo, utiliza:
 
     ```bash
     ionic serve
+    ```
+
+3. **Instala el vite con `Y`:**
+
+    ```bash
+    ? Install vite? (Y/n)
     ```
 
 ---
